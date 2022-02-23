@@ -1,4 +1,4 @@
-ISAAC (Integrated System for Autonomous and Adaptive Caretaking)
+[ISAAC (Integrated System for Autonomous and Adaptive Caretaking)](https://github.com/nasa/isaac)
 =====
 
 [![GitHub license](https://img.shields.io/github/license/nasa/isaac)](https://github.com/nasa/isaac/blob/master/LICENSE)
